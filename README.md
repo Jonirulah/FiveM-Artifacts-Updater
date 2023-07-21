@@ -54,7 +54,13 @@ The usage from the script is very straight forward to be honest. Just make sure 
 
 If you don't choose a build it will automatically download the latest version for you, if not you can choose whatever version you want, from the first one to the latest one. Just be advised that last versions can break script/server compatibility.
 
+**Unattended mode**
 
+--build or -b to choose a build, use the number of the build or latest.
+
+--clear-cache or -c to clear the server cache.
+
+Example: -b 5488 -c
 
 ![Sin título](https://github.com/Jonirulah/FiveM-Artifacts-Updater/assets/25936173/4d7fa7d0-acd7-48ce-a8b1-40c5858cd4b7)
 
