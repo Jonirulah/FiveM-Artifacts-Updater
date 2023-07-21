@@ -52,6 +52,10 @@ Now you are good to go!
 
 The usage from the script is very straight forward to be honest. Just make sure to edit both of the variables properly and you should be okay, however as much I would like to guarantee you that you will be fine I cannot do so!
 
+If you don't choose a build it will automatically download the latest version for you, if not you can choose whatever version you want, from the first one to the latest one. Just be advised that last versions can break script/server compatibility.
+
+
+
 ![Sin título](https://github.com/Jonirulah/FiveM-Artifacts-Updater/assets/25936173/4d7fa7d0-acd7-48ce-a8b1-40c5858cd4b7)
 
 ![485e42ae739608c9e94bb17f7e9dd215](https://github.com/Jonirulah/FiveM-Artifacts-Updater/assets/25936173/ad86e02f-e8cd-4163-ad85-3454fab0c102)
