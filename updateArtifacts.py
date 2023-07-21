@@ -62,7 +62,7 @@ def download_and_extract(url, destination_dir, select_cache):
     # Stop FiveM Service
     try:
         subprocess.run(['sudo', 'systemctl', 'stop', 'fivem'], check=True)
-        print(bcolors.OKGREEN + "FiveM has been stopped successfully!")
+        print("\n" + bcolors.OKGREEN + "FiveM has been stopped successfully!")
         delete_cache(select_cache, CACHE_DIRECTORY)
     except:
         print(bcolors.FAIL +"An error has occurred while trying to stop the FiveM service!")
