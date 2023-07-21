@@ -11,6 +11,7 @@ There are a few libraries that are required in order to run the updater.
 ```bash
 sudo apt install python3-pip
 pip3 install bs4
+pip3 install lxml
 pip3 install tabulate
 ```
 
