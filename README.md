@@ -61,13 +61,11 @@ If you don't choose a build it will automatically download the latest version fo
 
 --clear-cache or -c to clear the server cache.
 
+Example: -b 5488 -c
+
 ## Showcase
 
 https://github.com/Jonirulah/FiveM-Artifacts-Updater/assets/25936173/fabee709-44e1-4217-b7a8-1264daaa2709
-
-
-
-Example: -b 5488 -c
 
 ![Sin título](https://github.com/Jonirulah/FiveM-Artifacts-Updater/assets/25936173/4d7fa7d0-acd7-48ce-a8b1-40c5858cd4b7)
 
