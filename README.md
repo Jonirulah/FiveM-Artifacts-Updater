@@ -2,6 +2,7 @@
 
 FiveM Artifacts Updater is just a python script (using webscrap) to update your FiveM artifacts to a build number or the last release of artifacts, made for Linux for people with almost no idea of using it. Updating your artifacts should take less than 1 minute to be honest, but I know from experience that some people can take up to 30 minutes to do so, so this script does it for you in less than 10 seconds.
 
+
 To auto-update artifacts for you, you should run a cron job.
 
 ## Installation
